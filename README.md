@@ -25,4 +25,6 @@
 
 💬 Feel free to explore the notebook or use the dashboard to interact with the data!
 
+![Dashboard Preview](Power_Bi_Dashboard.png)
+
 
