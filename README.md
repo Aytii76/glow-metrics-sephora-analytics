@@ -1,6 +1,6 @@
 # Glow Metrics: Sephora Analytics
 
-💄 A full data analytics project analyzing 8,000+ skincare products from Sephora using Python, Excel, SQL, Power BI, and web scraping.
+💄 A full data analytics project analyzing 8,000+ skincare products from Sephora using Python, Excel, Power BI, and web scraping.
 
 ## 📁 Project Contents:
 - `Glow_Metrics_Sephora_Analytics.pptx` – Final presentation with key findings
